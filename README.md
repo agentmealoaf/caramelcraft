@@ -7,6 +7,10 @@ CaramelCraft is an open source Minecraft resource pack to enhance your Minecraft
 
 CaramelCraft currently supports Minecraft 1.15.1, when OptiFine is updated, I will look into supporting OF features.
 
+## Releases
+
+Full versions of the pack will be avaliable here as well on my [CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramelcraft)
+
 ## Contributing
 
 Pull requests are more than welcome. If you are interested in becoming an artist, contact us at caramelcraftstudios@gmail.com
