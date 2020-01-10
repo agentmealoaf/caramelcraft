@@ -4,7 +4,7 @@
 
 ## Usage
 
-> CaramelCraft currently supports Minecraft 1.15.1, when OptiFine is updated, I will look into supporting OF features.
+  CaramelCraft currently supports Minecraft 1.15.1, when OptiFine is updated, I will look into supporting OF features.
 
 ## Releases
 
