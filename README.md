@@ -25,11 +25,3 @@
 ```diff
 + You may edit and distibute this pack in whatever way you want.
 ```
-
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
