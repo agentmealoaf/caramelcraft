@@ -8,11 +8,11 @@
 
 ## Releases
 
-> Full versions of the pack will be avaliable here as well on my [CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramelcraft)
+> Full versions of the pack will be avaliable here as well on my **[CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramelcraft)**
 
 ## Contributing
 
-> Pull requests are more than welcome. If you are interested in becoming an artist, contact us at caramelcraftstudios@gmail.com
+> Pull requests are more than welcome. If you are interested in becoming an artist, contact us at **caramelcraftstudios@gmail.com**
 
 ## License
 
