@@ -1,6 +1,6 @@
 # CaramelCraft
 
-CaramelCraft is an open source Minecraft resource pack to enhance your Minecraft experience. It's still in its early stages, but I hope you all enjoy.
+CaramelCraft is an open source building resource pack to enhance your Minecraft experience. I've been working on it for about 6 months, so it's still in its early stages, but I hope you all enjoy.
 
 ## Usage
 
