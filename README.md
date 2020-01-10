@@ -19,5 +19,5 @@
 > [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)  (=^･ω･^=)
 
 ```diff
-- You may edit and distibute this pack in whatever way you want.
++ You may edit and distibute this pack in whatever way you want.
 ```
