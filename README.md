@@ -16,7 +16,7 @@
 
 ## License
 
-> [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)  (=^･ω･^=)
+> This project is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) license.  (=^･ω･^=)
 
 ```diff
 + You may edit and distibute this pack in whatever way you want.
