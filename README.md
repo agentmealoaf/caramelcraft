@@ -16,7 +16,7 @@
 
 ## Contributing
 
-> Pull requests are more than welcome. If you are interested in becoming an artist, contact us at **caramelcraftstudios@gmail.com**
+> Pull requests are more than welcome. If you are interested in becoming an artist, contact us at **<caramelcraftstudios@gmail.com>**
 
 ## License
 
