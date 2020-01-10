@@ -8,7 +8,7 @@
 
 ## Releases
 
-> Full versions of the pack will be avaliable here as well on my **[CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramelcraft)**
+> Full versions of the pack will be avaliable here as well on **[CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramelcraft)**
 
 > Development versions are available exclusive through github, I do my best to release updates every Sunday.
 
