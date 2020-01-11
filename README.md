@@ -14,9 +14,6 @@
 
 > CaramelCraft currently supports Minecraft 1.15.1, when Optifine is updated, I will look into supporting OF features.
 
-> Is Optifine 1.15.1 out yet?
-No :x:
-
 ## Contributing
 
 > Pull requests are more than welcome. If you are interested in becoming an artist, contact us at **<caramelcraftstudios@gmail.com>**
