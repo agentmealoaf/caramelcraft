@@ -5,7 +5,7 @@
 
 ## Trailer
 
-[![CaramelCraft Trailer](https://img.youtube.com/vi/jAuy9KEgQL8&t=/0.jpg)](https://www.youtube.com/watch?v=jAuy9KEgQL8&t=)
+[![CaramelCraft Trailer](https://img.youtube.com/vi/jAuy9KEgQL8/mqdefault.jpg)](https://www.youtube.com/watch?v=jAuy9KEgQL8&t=)
 
 ## Releases
 
