@@ -2,10 +2,6 @@
 
 > CaramelCraft is an open source building resource pack to enhance your Minecraft experience. I've been working on it for about 6 months, so it's still in its early stages, but I hope you all enjoy.
 
-## Trailer
-
-[![CaramelCraft Trailer]({https://img.youtube.com/vi/jAuy9KEgQL8/mqdefault.jpg})]({https://www.youtube.com/watch?v=jAuy9KEgQL8} "Caramel Craft + Sildurs Vibrant Shaders Cinematic Trailer")
-
 ## Releases
 
 > Full versions of the pack will be avaliable here as well on **[CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramelcraft)**
