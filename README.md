@@ -1,23 +1,21 @@
 # CaramelCraft
 
-> CaramelCraft is an open source building resource pack to enhance your Minecraft experience. I've been working on it for about 6 months, so it's still in its early stages, but I hope you all enjoy.
+> Caramel is a light medieval building resource pack for Minecraft that strikes a nice balance between a complete conversion and small tweaks. The pack is built with builders in mind, but anyone can enjoy Caramel's smooth design and classy textures.
 
 
 ## Trailer
 
-[![CaramelCraft Trailer](https://i.imgur.com/CFeJdUi.png)](https://www.youtube.com/watch?v=jAuy9KEgQL8&t=)
+[![CaramelCraft Trailer](https://i.imgur.com/CFeJdUi.png)](https://youtu.be/fHxaizNGUN0)
 
 ## Releases
 
-> Full versions of the pack will be avaliable here as well on **[CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramelcraft)**
+> Versions for 1.13+ and 1.15+ are offered. 
+> The only two places to get official releases of this pack are here and on my **[CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramel)**
 
----
+## Mod Support
 
-> Development versions are available exclusive through github, I do my best to release updates every Sunday.
-
-## Optifine Support
-
-> CaramelCraft currently supports Minecraft 1.15.1, when Optifine is updated, I will look into supporting OF features.
+> As of version cc-dev1.9.2, I've begun to implement mod support, currently supported mods are: Biomes O' Plenty, Terrestria, and Traverse 
+> When OptiFine is fully updated to 1.15.2, I will look into adding OF features.
 
 ## Contributing
 
