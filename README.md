@@ -10,11 +10,13 @@
 ## Releases
 
 > Versions for 1.13+ and 1.15+ are offered. 
+---
 > The only two places to get official releases of this pack are here and on my **[CurseForge](https://www.curseforge.com/minecraft/texture-packs/caramel)**
 
 ## Mod Support
 
 > As of version cc-dev1.9.2, I've begun to implement mod support, currently supported mods are: Biomes O' Plenty, Terrestria, and Traverse 
+---
 > When OptiFine is fully updated to 1.15.2, I will look into adding OF features.
 
 ## Contributing
