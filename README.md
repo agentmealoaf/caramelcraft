@@ -2,7 +2,7 @@
 <p><span style="font-size: 18px;">Caramel is a light medieval building resource pack for Minecraft that strikes a nice balance between a complete conversion and small tweaks. The pack is built with builders in mind, but anyone can enjoy Caramel's smooth design and classy textures.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 18px;"><strong><img src="https://ih0.redbubble.net/image.25011287.7046/flat,1000x1000,075,f.u1.jpg" width="24" height="24" />&nbsp;Trailer</strong></span></p>
-<p><span style="font-size: 18px;"><strong><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/fHxaizNGUN0?wmode=transparent" height="476" width="846"></iframe></strong></span></p>
+https://www.youtube.com/embed/fHxaizNGUN0
 <p>&nbsp;</p>
 <p><span style="font-size: 18px;"><strong><img src="https://media.forgecdn.net/avatars/thumbnails/6/623/64/64/635363922411546592.png" alt="" width="24" height="24" />&nbsp;Mod Support</strong></span></p>
 <div class="spoiler">
